@@ -1,6 +1,6 @@
 # Portfolio de Desenvolvimento FrontEnd
 
-Este repositório contém o código-fonte do meu projeto de portfólio desenvolvido como parte do curso de Desenvolvimento FrontEnd no curso de Análise e Desenvolvimento de Sistemas na faculdade Descomplica. A professora Lígia Gouvêa desempenhou um papel fundamental no auxílio e orientação durante o desenvolvimento deste projeto.
+Este repositório contém o código-fonte do meu projeto de portfólio desenvolvido como parte do curso de Desenvolvimento FrontEnd no curso de Análise e Desenvolvimento de Sistemas na faculdade Descomplica. A professora Lívia Gouvêa desempenhou um papel fundamental no auxílio e orientação durante o desenvolvimento deste projeto.
 
 ## Template Utilizado
 - **Nome do Template:** iPortfolio
@@ -40,5 +40,5 @@ Em caso de dúvidas ou sugestões, entre em contato comigo por meio do meu e-mai
 
 ---
 
-**Agradecimentos especiais à professora Lígia Gouvêa e ao BootstrapMade.com pelo excelente template utilizado neste projeto.**
+**Agradecimentos especiais à professora Lívia Gouvêa e ao BootstrapMade.com pelo excelente template utilizado neste projeto.**
 
