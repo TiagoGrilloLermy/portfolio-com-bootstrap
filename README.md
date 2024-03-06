@@ -20,6 +20,11 @@ Este projeto está disponível no GitHub Pages. Confira [aqui](colocar-o-link-do
 ## Sobre o Projeto
 Este projeto foi desenvolvido como parte do aprendizado na disciplina de Desenvolvimento FrontEnd. Utilizando as tecnologias mencionadas acima, o objetivo foi criar um portfólio online para destacar minhas habilidades e projetos.
 
+## Imagem do Projeto
+<div align=center">
+<img src="./assets/img/captura-do-site.PNG">
+</div>
+
 ## Como Utilizar
 1. Clone este repositório:
    ```bash
@@ -31,8 +36,9 @@ Este projeto foi desenvolvido como parte do aprendizado na disciplina de Desenvo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias.
 
 ## Contato
-Em caso de dúvidas ou sugestões, entre em contato comigo por meio do meu e-mail: seu-email@gmail.com.
+Em caso de dúvidas ou sugestões, entre em contato comigo por meio do meu e-mail: tlermy@gmail.com.
 
 ---
 
 **Agradecimentos especiais à professora Lígia Gouvêa e ao BootstrapMade.com pelo excelente template utilizado neste projeto.**
+
