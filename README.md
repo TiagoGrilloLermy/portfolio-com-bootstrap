@@ -14,8 +14,8 @@ Este repositório contém o código-fonte do meu projeto de portfólio desenvolv
 - JavaScript
 - Bootstrap
 
-## GitHub Pages
-Este projeto está disponível no GitHub Pages. Confira [aqui](colocar-o-link-do-github-pages) para visualizar o portfólio online.
+## Deploy do Projeto
+Visualize esse projeto [aqui](https://portfolio-tiago-grillo.netlify.app/).
 
 ## Sobre o Projeto
 Este projeto foi desenvolvido como parte do aprendizado na disciplina de Desenvolvimento FrontEnd. Utilizando as tecnologias mencionadas acima, o objetivo foi criar um portfólio online para destacar minhas habilidades e projetos.
